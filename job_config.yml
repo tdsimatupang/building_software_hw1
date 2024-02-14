@@ -1,0 +1,11 @@
+dataset: "/Users/tdsim/OneDrive/Desktop/DSI/Assignment/Python Assignment 2/SIMATUPANG_TULUS_python_assignment2_orig.csv"
+
+plot_config:
+  title: Occupied vs Unoccupied Beds
+  xlabel: Data Points
+  ylabel: Number of Beds
+
+# this is a comment
+columns:
+  - OCCUPIED_BEDS
+  - UNOCCUPIED_BEDS
