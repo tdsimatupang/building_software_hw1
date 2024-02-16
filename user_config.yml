@@ -1,7 +1,9 @@
-plot_color: green
+plot_color_occupied: green
+plot_color_unoccupied: red
 page_size: letter
 
 columns:
   - OCCUPIED_BEDS
+  - UNOCCUPIED_BEDS
 
   
